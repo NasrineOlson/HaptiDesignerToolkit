@@ -1,0 +1,17 @@
+D:\Project\PC client\SuitCEyes\SuitCEyes\bin\Debug\SuitCEyes.exe.config
+D:\Project\PC client\SuitCEyes\SuitCEyes\bin\Debug\SuitCEyes.exe
+D:\Project\PC client\SuitCEyes\SuitCEyes\bin\Debug\SuitCEyes.pdb
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.About.resources
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.EditPatternUserControl.resources
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.Form1.resources
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.NewPatternForm.resources
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.PatternUserContorl.resources
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.PlayPattern.resources
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.Properties.Resources.resources
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.EnterTextMessageBox.resources
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.Simulate.resources
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.csproj.GenerateResource.cache
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.csproj.CoreCompileInputs.cache
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.exe
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.pdb
+D:\Project\PC client\SuitCEyes\SuitCEyes\obj\Debug\SuitCEyes.csprojAssemblyReference.cache
